@@ -90,8 +90,8 @@ PPT 업로드만으로 강의 영상·퀴즈·설문을 자동 생성하고, 수
 - PR 리뷰 전담 및 모든 충돌 해결 — 팀원들의 무분별한 타인 코드 수정으로 충돌 빈도가 높았으며, 작업 범위 가이드를 수립하여 후반부 충돌 감소
 - 팀원 전원 로컬 개발 환경 세팅 지원
 
-React Vite axios json-server OpenAI API MUI GitHub Vercel
-`Python` `LangGraph` `LangChain` `OpenAI GPT-4.1-mini` `SQLite` `Streamlit` `LangSmith`
+`React` `Vite` `axios` `json-server` `OpenAI API` `MUI` `GitHub` `Vercel`
+
 
 ---
 

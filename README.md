@@ -80,6 +80,21 @@ PPT 업로드만으로 강의 영상·퀴즈·설문을 자동 생성하고, 수
 
 ---
 
+### 📚 Pic:Story
+> 2026.05.22 ~ 2026.05.27 · KT AIVLE 미니프로젝트 4차
+
+도서 정보 관리(CRUD)와 AI 기반 도서 표지 자동 생성 기능을 탑재한 웹 서비스. OpenAI GPT Image 2 모델로 도서 내용 기반 맞춤형 표지를 생성합니다.
+
+- 전체 코드 구조 설계 — App.jsx 라우팅 구조 및 컴포넌트 폴더 구조(screen/, hooks/, common/) 설계
+- 도서 관련 전체 페이지 CRUD 구현 — 목록 / 상세 / 등록 / 수정 / 삭제
+- PR 리뷰 전담 및 모든 충돌 해결 — 팀원들의 무분별한 타인 코드 수정으로 충돌 빈도가 높았으며, 작업 범위 가이드를 수립하여 후반부 충돌 감소
+- 팀원 전원 로컬 개발 환경 세팅 지원
+
+React Vite axios json-server OpenAI API MUI GitHub Vercel
+`Python` `LangGraph` `LangChain` `OpenAI GPT-4.1-mini` `SQLite` `Streamlit` `LangSmith`
+
+---
+
 ## 🎓 교육
 
 **KT AIVLE School** AI 부트캠프 (2026 수료 예정)
